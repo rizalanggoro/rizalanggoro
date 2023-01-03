@@ -1,20 +1,33 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**rizalanggoro/rizalanggoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rizal Dwi Anggoro**, a coder who likes to explore many things, such as Android Development, Internet of Things, Frontend and Backend Web Development. Currently focusing on Website and Android development.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am currently studying at Sebelas Maret University, Department of Informatics.
+- 🌱 I'm currently learning android programming, fullstack development, and internet of things.
+- 💬 Ask me about anything, let's discuss and solve it together.
+- 📫 How to contact me: gnoogler4@gmail.com (personal website asap insya'Allah)
+- ⚡ Fun fact: available anytime and anywhere, insya'Allah.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rizalanggoro&theme=tokyonight&show_icons=true)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizalanggoro&theme=tokyonight&layout=compact&langs_count=100)
+## Stats
+
+<div style="text-align: center">
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rizalanggoro&theme=onedark&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizalanggoro&theme=onedark&layout=compact&langs_count=100&card_width=445)
+
+</div>
+
+## Highlighted Projects
+
+The following are some of my big projects.
+
+<div style="text-align: center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizalanggoro&repo=KP-Game&show_owner=true&theme=onedark)](https://github.com/rizalanggoro/KP-Game)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizalanggoro&repo=SFML-Starter-V2&show_owner=true&theme=onedark)](https://github.com/rizalanggoro/SFML-Starter-V2)
+
+</div>
