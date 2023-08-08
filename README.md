@@ -20,14 +20,4 @@ Here are some ideas to get you started:
 
 </div>
 
-## Highlighted Projects
 
-The following are some of my big projects.
-
-<div style="text-align: center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizalanggoro&repo=KP-Game&show_owner=true&theme=onedark)](https://github.com/rizalanggoro/KP-Game)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizalanggoro&repo=SFML-Starter-V2&show_owner=true&theme=onedark)](https://github.com/rizalanggoro/SFML-Starter-V2)
-
-</div>
