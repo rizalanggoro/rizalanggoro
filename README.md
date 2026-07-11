@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I am currently studying at Sebelas Maret University, Department of Informatics.
 - 🌱 I'm currently learning android programming, fullstack development, and internet of things.
 - 💬 Ask me about anything, let's discuss and solve it together.
-- 📫 How to contact me: gnoogler4@gmail.com (https://rizalanggoro.vercel.app)
+- 📫 How to contact me: gnoogler4@gmail.com (https://rizalanggoro.my.id)
 - ⚡ Fun fact: available anytime and anywhere, insya'Allah.
 
 ## Stats
